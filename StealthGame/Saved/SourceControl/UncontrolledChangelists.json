@@ -1149,7 +1149,18 @@
 				"D:/Games Dev/StealthGame/StealthGame/Content/Survival_Character/Demo/Characters/Mannequins/Rigs/IK_Mannequin.uasset",
 				"D:/Games Dev/StealthGame/StealthGame/Content/Survival_Character/Demo/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
 				"D:/Games Dev/StealthGame/StealthGame/Content/Survival_Character/Demo/Characters/Mannequins/Meshes/SKM_Manny.uasset",
-				"D:/Games Dev/StealthGame/StealthGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Games Dev/StealthGame/StealthGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Animations/BS_Crouch.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Animations/anim_Crouch_Fwd1.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/FreeAnimationLibrary/Animations/Crouch/anim_Crouch_Fwd.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Animations/anim_Crouch_Fwd.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Animations/anim_Crouch_Idle.uasset",
+				"D:/Games Dev/StealthGame/StealthGame/Content/Animations/anim_Crouch_Idle1.uasset"
 			]
 		}
 	]
